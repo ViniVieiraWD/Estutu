@@ -1,30 +1,37 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#matematica  ",
       "color": {
         "a": 1,
-        "rgb": 405758
+        "rgb": 1740281
+      }
+    },
+    {
+      "query": "tag:#Física  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.865625,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "showArrow": true,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 1.58020833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.515625,
+  "repelStrength": 12.2916666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000013,
-  "close": false
+  "linkDistance": 108,
+  "scale": 0.38230109687700264,
+  "close": true
 }
