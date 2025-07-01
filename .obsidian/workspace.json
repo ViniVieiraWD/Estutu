@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/Matemática/Fórmulas Mat.md",
+                "file": "Matérias/Física/Fórmulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fórmulas Mat"
+              "title": "Fórmulas"
             }
           }
         ]
@@ -202,15 +202,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cccc933377916680",
+  "active": "74137ddb5b75236c",
   "lastOpenFiles": [
-    "Testes/Welcome.md",
-    "Testes/photo_4945337332047916424_x.jpg",
-    "Matérias/Matemática/FlashCards Matemática.md",
-    "Matérias/Matemática/Álgebra-Básica.md",
-    "Matérias/Matemática/Fórmulas Mat.md",
+    "Matérias/Física/Fis-2.md",
     "Matérias/Física/Fórmulas.md",
     "Matérias/Física/Fis-1.md",
+    "Matérias/Matemática/FlashCards Matemática.md",
+    "Matérias/Matemática/Fórmulas Mat.md",
+    "Matérias/Matemática/Álgebra-Básica.md",
+    "Testes/Welcome.md",
+    "Testes/photo_4945337332047916424_x.jpg",
     "Álgebra.md",
     "Fis-1.md",
     "Fis-1/Introdução/Sistemas-de-Unidades-Métricas.md",
