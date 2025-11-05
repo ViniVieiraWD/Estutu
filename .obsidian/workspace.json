@@ -4,48 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09eb06d1bd103ad4",
+        "id": "d511965827fd624f",
         "type": "tabs",
         "children": [
           {
-            "id": "74137ddb5b75236c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "533e44ed7e26a194",
+            "id": "05448d72a7b9ce59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/Matemática/Anotações Gerais.md",
+                "file": "Matérias/Física/Cinemática.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anotações Gerais"
-            }
-          },
-          {
-            "id": "17b94adc7161c1a7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Cinemática"
             }
           }
         ]
@@ -105,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "67f383eefaf85d77",
@@ -230,22 +203,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74137ddb5b75236c",
+  "active": "05448d72a7b9ce59",
   "lastOpenFiles": [
-    "Matérias/Física/Cinemática.md",
-    "Pasted image 20251105155347.png",
-    "Matérias/Física/FlashCards Física.md",
     "Matérias/Física/Fórmulas.md",
+    "Matérias/Física/Cinemática.md",
     "Matérias/Física/Física-Básica.md",
-    "Matérias/Física/Leis de Newton.md",
-    "Matérias/Matemática/Geometria Plana.md",
-    "Matérias/Matemática/Matemática-Básica.md",
+    "Matérias/Física/Non-Usable/Fis-1.md",
+    "Matérias/Física/Non-Usable/Fis-2.md",
     "Matérias/Matemática/Trigonometria.md",
     "Matérias/Matemática/Probabilidade.md",
+    "Matérias/Matemática/Matemática-Básica.md",
+    "Pasted image 20251105155347.png",
+    "Matérias/Física/FlashCards Física.md",
+    "Matérias/Física/Leis de Newton.md",
+    "Matérias/Matemática/Geometria Plana.md",
     "Untitled 4.base",
     "Matérias/Física/Movimentos-Unidimensionais.md",
     "Matérias/Física/Non-Usable",
-    "Matérias/Física/Non-Usable/Fis-2.md",
     "Matérias/Matemática/FlashCards Matemática.md",
     "Matérias/Matemática/Anotações Gerais.md",
     "Matérias/Matemática/Álgebra-Básica.md",
@@ -261,7 +235,6 @@
     "Pasted image 20251023190236.png",
     "Pasted image 20251023185609.png",
     "Pasted image 20251023183116.png",
-    "Matérias/Física/Non-Usable/Fis-1.md",
     "Matérias/Matemática/Fórmulas Mat.md",
     "Untitled 1.base",
     "Untitled.base",
