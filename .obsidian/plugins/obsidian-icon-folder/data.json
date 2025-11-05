@@ -37,9 +37,9 @@
   "Matérias/Física": "LiAlbum",
   "Matérias/Matemática": "LiAlbum",
   "Matérias/Física/Fórmulas.md": "LiNotepadText",
-  "Matérias/Física/Fis-1.md": "LiAlignLeft",
   "Matérias/Matemática/Fórmulas Mat.md": "LiNotepadText",
   "Matérias/Matemática/FlashCards Matemática.md": "LiBackpack",
   "Matérias/Matemática/Álgebra-Básica.md": "LiAlignLeft",
-  "Matérias/Física/Fis-2.md": "LiAlignLeft"
+  "Matérias/Física/Non-Usable/Fis-1.md": "LiAlignLeft",
+  "Matérias/Física/Non-Usable/Fis-2.md": "LiAlignLeft"
 }
