@@ -88,3 +88,6 @@ $$v=v_{0}+at$$
 *(vi=vo+twoAAS)*
 
 $$v^{2}=v_{0}^{2}+2a\Delta s$$
+
+# Vetores
+
