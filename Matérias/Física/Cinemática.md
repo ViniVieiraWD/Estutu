@@ -59,7 +59,7 @@ Sendo assim, temos o Deslocamento Escalar como a soma de onde o objeto passou co
 
 $$\Delta S=L_{local}+L_{objeto--em--movimento}$$
 
-![[Pasted image 20251105155347.png]]
+![[Pasted image 20251105155347.png|500]]
 
 # Movimento Uniforme Variado (M.U.V)
 
@@ -92,7 +92,7 @@ $$v^{2}=v_{0}^{2}+2a\Delta s$$
 # Vetores
  
 Vetor é uma forma geométrica de representar uma grandeza vetorial, indicando seu módulo, sua direção e seu sentido.
-![[Pasted image 20251112015313.png]]
+![[Pasted image 20251112015313.png|500]]
 
 ## Vetor Resultante
 
@@ -109,7 +109,7 @@ Vetor variação da velocidade.
 A subtração é feita através da alternância do sentido de um dos vetores (que é o que acontece com um vetor quando trocamos os sinais):
 
 Vetor B original // Vetor B invertido
-![[Pasted image 20251112015441.png]]
+![[Pasted image 20251112015441.png|300]]
 ## Decomposição de Vetores
 
 Transformação dos vetores no plano X e Y.
@@ -134,10 +134,10 @@ Ou seja
 
 Velocidade Escalar Média utiliza a forma:
 
-![[Pasted image 20251112015801.png]]
+![[Pasted image 20251112015801.png|200]]
 
 Enquanto a Velocidade Vetorial Média, a nossa nova velocidade:
-![[Pasted image 20251112015831.png]]
+![[Pasted image 20251112015831.png|200]]
 
 A única informação realmente importante nesse caso é apenas a existência do uso do *DESLOCAMENTO VETORIAL*, ao invés da distância percorrida.
 
@@ -168,15 +168,55 @@ Mesma fórmula da Aceleração Escalar, mas a velocidade vetorial pode ser afeta
 - Varia a *DIREÇÃO* e o *SENTIDO* da velocidade.
 
 (ocorre sempre na direção do centro da curva, como na imagem a seguir:)
-![[Pasted image 20251112021424.png]]
-![[Pasted image 20251112021430.png]]
+![[Pasted image 20251112021424.png|200]]
+![[Pasted image 20251112021430.png|400]]
 **FÓRMULAS**:
 
 A *Aceleração Tangencial* apenas afeta na velocidade, logo:
-![[Pasted image 20251112021456.png]]
+![[Pasted image 20251112021456.png|200]]
 A *Aceleração Centrípeta*, por estar sempre apontada para o centro de uma curva, se torna resultado do quadrado da velocidade divido pelo *Raio (R)*.
-![[Pasted image 20251112021653.png]]
+![[Pasted image 20251112021653.png|200]]
 
 Além disso, supondo que um objeto comece a se movimentar em forma de uma espiral, mas sem alterar sua velocidade, temos que o raio da posição do objeto até o centro da espiral fica menor conforme o objeto chega cada vez mais perto do centro. Logo, com o raio menor, há uma maior Aceleração Centrípeta.
 
 # Movimento Circular e Uniforme.
+%% (BORA COMEÇAR FREQUÊNCIA YIPPEEEEEE) %%
+## Frequência (Hz)
+
+É a razão entre o número de repetições por intervalo de tempo. Também pode ser calculada pelo inverso do período.
+
+$$f = \frac{{1}}{T}$$
+
+(T = Medido por segundos quando Hz)
+
+## Velocidade Tangencial (v)
+
+Para poder calcular a velocidade tangencial, temos que lembrar da clássica fórmula para a velocidade.
+
+$$v = \frac{{\Delta S}}{\Delta T}$$
+
+Sendo a variação do espaço em um movimento circular o *tamanho da circunferência*, e sendo o tempo considerado o *PERÍODO* que utilizamos para, por exemplo, achar a frequência, temos a seguinte fórmula:
+
+$$v = \frac{{2\pi R}}{T_{período} }$$
+
+E considere também que a divisão pelo período pode ser descrito como:
+
+$$v = 2\pi R \cdot \frac{{1}}{T}$$
+e sendo
+$$f = \frac{{1}}{T}$$
+temos que
+$$v = 2\pi R \cdot f$$
+
+
+## Velocidade Angular (ω)
+![[Pasted image 20251112113559.png|300]]
+Considerando que velocidade tangencial é distância pelo tempo, a velocidade **ANGULAR**, como o nome já deve indicar, é a resultante pela *variação do ângulo* pelo *tempo*, resultando em *Radianos* por segundo (*rad/s*).
+
+$$\omega=\frac{{\Delta \theta}}{T}$$
+
+Mas cuidado! EM RADIANOS! Ou seja, caso quisermos calcular a velocidade angular de uma volta de 360º, teremos:
+$$\omega=\frac{{2\pi }}{T}$$
+E seguindo ainda a substituição da fórmula da frequência:
+$$\omega  = 2\pi\cdot f$$
+
+(A partir desse ponto, veremos **várias** formas de substituições de fórmulas)
