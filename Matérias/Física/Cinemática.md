@@ -220,3 +220,21 @@ E seguindo ainda a substituição da fórmula da frequência:
 $$\omega  = 2\pi\cdot f$$
 
 (A partir desse ponto, veremos **várias** formas de substituições de fórmulas)
+
+## Relação entre Velocidade Linear e Angular
+![[Pasted image 20251112115253.png|400]]
+## Acoplamento de Engrenagens e Polia
+O Raio de uma engrenagem é *PROPORCIONAL* ao *NÚMERO DE DENTES* dessa engrenagem![[Pasted image 20251112181437.png|400]]
+Uma coisa interessante: No caso de duas engrenagens girando, a velocidade tangencial de ambas serão iguais, mas com frequência diferente pela mudança do *Raio*. No caso de dois objetos girando no mesmo eixo, a velocidade tangencial entre esses dois objetos irá ser diferente em *diferentes Raios*. Mas esse ultimo caso mantém a *velocidade angular igual*.
+
+![[Pasted image 20251112181525.png|500]]
+# Queda Livre e Lançamento Vertical para Baixo
+![[Pasted image 20251112181556.png|500]]
+# Lançamento Vertical para Cima
+# Sequencia Galileu
+![[Pasted image 20251112181623.png|400]]
+Sem falar em termos técnicos, mas usa essa **técnica** para quando o exercício oferece uma **queda LIVRE** (ou seja, *velocidade inicial = 0m/s*) e utiliza **mesmo intervalo de tempo** entre as medidas.
+
+# Lançamento Horizontal
+# Lançamento Oblíquo 
+(Lembrando sempre, usar a fórmula da velocidade vertical para achar o tempo apenas acha o tempo até a altura máxima. Em um Lançamento Oblíquo, o objeto atinge altura máxima durante tempo T e volta com mais o tempo T. *Ou seja 2T*)

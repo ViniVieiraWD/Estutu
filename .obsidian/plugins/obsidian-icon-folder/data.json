@@ -36,10 +36,39 @@
   "Matérias": "LiAlbum",
   "Matérias/Física": "LiAlbum",
   "Matérias/Matemática": "LiAlbum",
-  "Matérias/Física/Fórmulas.md": "LiNotepadText",
+  "Matérias/Física/Fórmulas.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#1eff00"
+  },
   "Matérias/Matemática/Fórmulas Mat.md": "LiNotepadText",
   "Matérias/Matemática/FlashCards Matemática.md": "LiBackpack",
   "Matérias/Matemática/Álgebra-Básica.md": "LiAlignLeft",
-  "Matérias/Física/Non-Usable/Fis-1.md": "LiAlignLeft",
-  "Matérias/Física/Non-Usable/Fis-2.md": "LiAlignLeft"
+  "Matérias/Física/Cinemática.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
+  },
+  "Matérias/Física/Física-Básica.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
+  },
+  "Matérias/Física/Dinâmica.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
+  },
+  "Matérias/Física/Eletrodinâmica.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
+  },
+  "Matérias/Física/FlashCards Física.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#fff700"
+  },
+  "Matérias/Física/Óptica.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
+  },
+  "Matérias/Física/Termodinâmica.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
+  }
 }
