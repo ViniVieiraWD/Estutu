@@ -90,4 +90,93 @@ $$v=v_{0}+at$$
 $$v^{2}=v_{0}^{2}+2a\Delta s$$
 
 # Vetores
+ 
+Vetor é uma forma geométrica de representar uma grandeza vetorial, indicando seu módulo, sua direção e seu sentido.
+![[Pasted image 20251112015313.png]]
 
+## Vetor Resultante
+
+Lembrar da *Lei dos Cossenos*:
+
+$$R^{2}=a^{2}+b^{2}+2.a.b.\cos\theta$$
+
+Lembrando que normalmente a lei dos cossenos _não_ é essa, mas para o caso de cálculo de alguns vetores, essa fórmula apenas utiliza somas, não subtração.
+
+## Subtração Vetorial
+
+Vetor variação da velocidade.
+
+A subtração é feita através da alternância do sentido de um dos vetores (que é o que acontece com um vetor quando trocamos os sinais):
+
+Vetor B original // Vetor B invertido
+![[Pasted image 20251112015441.png]]
+## Decomposição de Vetores
+
+Transformação dos vetores no plano X e Y.
+
+Se o ângulo analisado estiver grudado no plano Y, por exemplo, calcularemos Fy com Cos do ângulo. Enquanto o X será calculado com Sen do ângulo. *(Com = Co = Cos // Sem = Se = Sen)*.
+
+$$Fy = F\cdot Cos \theta$$
+
+$$Fx = F\cdot Sen \theta$$
+
+Mas isso só se aplica *DEPENDENDO* se o ângulo eixo X ou no eixo Y.
+
+## Velocidade Vetorial Média
+
+**RELEMBRANDO**
+
+*Distância* = *Medida em escalar*
+
+*Deslocamento* = *Medida Vetorial*
+
+Ou seja
+
+Velocidade Escalar Média utiliza a forma:
+
+![[Pasted image 20251112015801.png]]
+
+Enquanto a Velocidade Vetorial Média, a nossa nova velocidade:
+![[Pasted image 20251112015831.png]]
+
+A única informação realmente importante nesse caso é apenas a existência do uso do *DESLOCAMENTO VETORIAL*, ao invés da distância percorrida.
+
+IMPORTANTE: A velocidade vetorial média é calculada com ela e o *DESLOCAMENTO VETORIAL* em *MÓDULO*.
+
+Características entre **VEM** e **VVM**
+
+VEM e VVM podem ter o mesmo valor quando o movimento ocorrer em *LINHA RETA* no *MESMO SENTIDO*.
+
+## Aceleração Vetorial.
+
+Mesma fórmula da Aceleração Escalar, mas a velocidade vetorial pode ser afetada de duas formas: alterando o MÓDULO e alterando sua DIREÇÃO e SENTIDO.
+
+**Aceleração Tangencial at:**
+
+- *Paralela* à velocidade (ou é a favor, ou é contra a velocidade)
+
+	OU SEJA
+
+- Varia o *MÓDULO* da velocidade
+
+**Aceleração Centrípeta ac:**
+
+- Perpendicular à velocidade
+
+	OU SEJA
+
+- Varia a *DIREÇÃO* e o *SENTIDO* da velocidade.
+
+(ocorre sempre na direção do centro da curva, como na imagem a seguir:)
+![[Pasted image 20251112021424.png]]
+![[Pasted image 20251112021430.png]]
+**FÓRMULAS**:
+
+A *Aceleração Tangencial* apenas afeta na velocidade, logo:
+![[Pasted image 20251112021456.png]]
+A *Aceleração Centrípeta*, por estar sempre apontada para o centro de uma curva, se torna resultado do quadrado da velocidade divido pelo *Raio (R)*.
+![[Pasted image 20251112021653.png]]
+
+Além disso, supondo que um objeto comece a se movimentar em forma de uma espiral, mas sem alterar sua velocidade, temos que o raio da posição do objeto até o centro da espiral fica menor conforme o objeto chega cada vez mais perto do centro. Logo, com o raio menor, há uma maior Aceleração Centrípeta.
+
+# Movimento Circular e Uniforme.
