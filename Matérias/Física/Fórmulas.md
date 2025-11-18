@@ -54,6 +54,45 @@ $$\omega=\frac{{2\pi }}{T}$$
 ![[Pasted image 20251112181525.png|500]]
 
 # [Dinâmica](Dinâmica)
+## Força Elástica
+$$F_{e} =K.\Delta x$$
+## Força de Tração
+Máquina de Atwood
+$$a=\frac{p_{1}-p_{2}}{m_{1}+m_{a}}$$
+Polia Móvel
+$$F=\frac{T_{1}}{2^{n}}$$
+![[Pasted image 20251115174502.png|300]]
+## Força de Atrito
+## Trabalho e Energia
+### Trabalho 
+$$w=F.d.\cos(\theta)$$
+### Energia Cinética
+$$F_{c}=\frac{1}{2}m.v^{2}$$
+### Energia Potencial Gravitacional
+$$E_{PG}=m\cdot g\cdot h$$
+
+### Energia Potencial Elástica
+$$E_{PE}=\frac{1}{2}k\cdot x^{2}$$
+k em N/m
+
+### Sistemas Conservativos
+$$E_{M} =E_{C}+E_{P}$$
+
+### Sistemas Dissipativos
+![[Pasted image 20251115180850.png|350]]
+
+### Potência Mecânica
+$$P=\frac{W}{\Delta t} $$
+P = Watt
+W = J
+
+*e, para forças Constantes*
+
+$$P=F\cdot v$$
+v = m/s
+F = N
+![[Pasted image 20251115181026.png|300]]
+##
 # Gravitação
 # Estática
 # Hidrostática
