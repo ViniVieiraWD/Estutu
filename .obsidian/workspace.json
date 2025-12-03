@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/Física/Cinemática.md",
+                "file": "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cinemática"
+              "title": "Nebulosas (1872) – Narcisa Amália"
             }
           },
           {
-            "id": "75651627d71d84e0",
+            "id": "ec828718f3e24573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/LIvros da Fuvest/Caminho de pedras (1937) – Rachel de Queiroz.md",
+                "file": "Matérias/Física/Termologia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caminho de pedras (1937) – Rachel de Queiroz"
+              "title": "Termologia"
             }
           }
         ],
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,21 +151,6 @@
             }
           },
           {
-            "id": "22181028019b63ff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Matérias/LIvros da Fuvest/Caminho de pedras (1937) – Rachel de Queiroz.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Caminho de pedras (1937) – Rachel de Queiroz"
-            }
-          },
-          {
             "id": "3ace8759f540fdda",
             "type": "leaf",
             "state": {
@@ -210,9 +194,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c1e7677611f4ae97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nebulosas (1872) – Narcisa Amália"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -233,46 +232,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75651627d71d84e0",
+  "active": "9f7d42e8ce7e1ddb",
   "lastOpenFiles": [
+    "Pasted image 20251202175518.png",
+    "Pasted image 20251202175502.png",
+    "Pasted image 20251202175413.png",
+    "Matérias/Física/Fórmulas.md",
+    "Matérias/Física/Cinemática.md",
+    "Matérias/Física/Dinâmica.md",
+    "Matérias/Física/FlashCards Física.md",
+    "Pasted image 20251202150427.png",
+    "Pasted image 20251202150412.png",
+    "Matérias/Física/Termologia.md",
+    "Pasted image 20251202145953.png",
+    "Pasted image 20251202145925.png",
+    "Pasted image 20251202011946.png",
+    "Pasted image 20251202011522.png",
+    "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
+    "Matérias/LIvros da Fuvest/Memórias de Martha (1899) – Julia Lopes de Almeida.md",
     "Matérias/LIvros da Fuvest/Balada de amor ao vento (1990) – Paulina Chiziane.md",
+    "Matérias/Matemática/Matemática-Básica.md",
+    "Matérias/Matemática/Geometria Plana.md",
+    "Matérias/Matemática/Probabilidade.md",
+    "Matérias/Matemática/Trigonometria.md",
     "Matérias/LIvros da Fuvest/Caminho de pedras (1937) – Rachel de Queiroz.md",
+    "Untitled 5.base",
     "Matérias/LIvros da Fuvest/As meninas (1973) – Lygia Fagundes Telles.md",
     "Matérias/LIvros da Fuvest/A visão das plantas (2019) – Djaimilia Pereira de Almeida.md",
     "Matérias/Matemática/Anotações Gerais.md",
     "Pasted image 20251023132124.png",
     "Pasted image 20251023132225.png",
-    "Pasted image 20251023132126.png",
     "Matérias/Flashcards.md",
     "Matérias/Untitled.md",
     "Matérias/Redação Fuvest",
-    "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
     "Matérias/LIvros da Fuvest/Canção para ninar menino grande (2018) – Conceição Evaristo.md",
     "Matérias/LIvros da Fuvest/O Cristo Cigano (1961) – Sophia de Mello Breyner Andresen.md",
-    "Matérias/LIvros da Fuvest/Memórias de Martha (1899) – Julia Lopes de Almeida.md",
     "Matérias/LIvros da Fuvest/Opúsculo Humanitário (1853) - Nísia Floresta.md",
-    "Matérias/Física/Fórmulas.md",
     "Matérias/LIvros da Fuvest",
-    "Matérias/Física/Cinemática.md",
     "Matérias/Física/Eletrodinâmica.md",
     "Matérias/Física/Física-Básica.md",
-    "Matérias/Física/FlashCards Física.md",
-    "Pasted image 20251120215425.png",
-    "Pasted image 20251120215411.png",
-    "Pasted image 20251118020933.png",
-    "Pasted image 20251118020919.png",
-    "Pasted image 20251118015817.png",
-    "Pasted image 20251118015155.png",
-    "Pasted image 20251118013922.png",
     "Matérias/Matemática/Fórmulas Mat.md",
-    "Matérias/Física/Dinâmica.md",
-    "Matérias/Física/Termodinâmica.md",
     "Matérias/Física/Óptica.md",
-    "Dinâmica.md",
-    "Matérias/Física/Non-Usable/Fis-2.md",
-    "Matérias/Física/Non-Usable/Fis-1.md",
-    "Matérias/Física/Non-Usable/aaa.md",
-    "Matérias/Física/Movimentos-Unidimensionais.md",
     "Untitled.canvas",
     "Untitled 4.base",
     "Matérias/Física/Non-Usable",
@@ -280,7 +280,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Fis-1/Introdução",
-    "Fis-1"
+    "Fis-1/Introdução"
   ]
 }

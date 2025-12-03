@@ -31,7 +31,7 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": true,
+    "debugMode": false,
     "useInternalPlugins": false
   },
   "Matérias": "LiAlbum",
@@ -68,10 +68,6 @@
     "iconName": "LiAlignLeft",
     "iconColor": "#ff0000"
   },
-  "Matérias/Física/Termodinâmica.md": {
-    "iconName": "LiAlignLeft",
-    "iconColor": "#ff0000"
-  },
   "Matérias/LIvros da Fuvest": "LiAlbum",
   "Matérias/LIvros da Fuvest/A visão das plantas (2019) – Djaimilia Pereira de Almeida.md": {
     "iconName": "LiAlignJustify",
@@ -88,7 +84,10 @@
   "Matérias/LIvros da Fuvest/Caminho de pedras (1937) – Rachel de Queiroz.md": "LiAlignJustify",
   "Matérias/LIvros da Fuvest/Memórias de Martha (1899) – Julia Lopes de Almeida.md": "LiAlignJustify",
   "Matérias/LIvros da Fuvest/Canção para ninar menino grande (2018) – Conceição Evaristo.md": "LiAlignJustify",
-  "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md": "LiAlignJustify",
+  "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md": {
+    "iconName": "LiAlignJustify",
+    "iconColor": "#d258fe"
+  },
   "Matérias/LIvros da Fuvest/O Cristo Cigano (1961) – Sophia de Mello Breyner Andresen.md": "LiAlignJustify",
   "Matérias/LIvros da Fuvest/Opúsculo Humanitário (1853) - Nísia Floresta.md": "LiAlignJustify",
   "Matérias/Redação Fuvest": "LiAlbum",
@@ -96,5 +95,9 @@
   "Matérias/Matemática/Geometria Plana.md": "LiAlignLeft",
   "Matérias/Matemática/Probabilidade.md": "LiAlignLeft",
   "Matérias/Matemática/Matemática-Básica.md": "LiAlignLeft",
-  "Matérias/Matemática/Trigonometria.md": "LiAlignLeft"
+  "Matérias/Matemática/Trigonometria.md": "LiAlignLeft",
+  "Matérias/Física/Termologia.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
+  }
 }
