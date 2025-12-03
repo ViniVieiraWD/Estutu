@@ -69,3 +69,22 @@ $$1 cal=4,2J$$
 
 # Calor Específico
 
+$$c=\frac{C}{m}$$
+
+Já que temos a Capacidade Térmica na fórmula, podemos descrevê-la também como:
+
+$$c=\frac{Q}{m.\Delta T}$$
+
+Quanto maior o Calor Específico, maior a capacidade do corpo de manter sua temperatura. Assim com relação entre a areia e o mar de uma praia, onde a areia se aquece e se esfria mais rápido do que a água do mar por ter um calor específico bem menor comparado com a água da praia. Isso também se comprova quando, na noite, a água da praia aparenta estar mais quente que a areia.
+
+# Calor Sensível
+
+Como calcular a quantidade de calor que um corpo ganhou ou perdeu.
+
+Resumo: Isola o Q na fórmula do Calor Específico. Você usa sempre que o corpo sofrer um Aquecimento ou um Resfriamento
+
+$$Q=c.m.\Delta T$$
+
+# Mudanças do Estado Físico
+
+# Diagrama de Fases

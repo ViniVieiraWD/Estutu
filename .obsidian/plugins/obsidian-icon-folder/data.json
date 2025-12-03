@@ -99,5 +99,9 @@
   "Matérias/Física/Termologia.md": {
     "iconName": "LiAlignLeft",
     "iconColor": "#ff0000"
+  },
+  "Matérias/Física/Hidrostática.md": {
+    "iconName": "LiAlignLeft",
+    "iconColor": "#ff0000"
   }
 }
