@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 3298293
       }
+    },
+    {
+      "query": "tag:#literatura",
+      "color": {
+        "a": 1,
+        "rgb": 10097124
+      }
     }
   ],
   "collapse-display": false,
@@ -28,10 +35,10 @@
   "nodeSizeMultiplier": 2.11614583333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.489583333333333,
-  "repelStrength": 12.5,
+  "centerStrength": 0.59375,
+  "repelStrength": 10.8333333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277903,
-  "close": true
+  "scale": 0.751434232227793,
+  "close": false
 }

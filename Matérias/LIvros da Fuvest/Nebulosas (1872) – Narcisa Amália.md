@@ -1,3 +1,4 @@
+#literatura
 # Características 
 Livro da época Romantista (1836-1881)
 Poemas Melancólicos (característico do romantismo)
