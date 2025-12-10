@@ -19,3 +19,23 @@ Razão entre a massa e o volume de um objeto
 # Pressão Atmosférica
 
  Fluidos sempre se deslocam da região de *maior pressão* para a região de *menor pressão*.
+ 
+# Pressão Hidrostática
+
+Pressão exercida por uma coluna de líquido.
+
+Ela depende apenas da densidade do líquido, da gravidade e da profundidade. Isso se demonstra em:
+![[Pasted image 20251210022059.png|350]]
+
+
+## Pressão Absoluta (total)
+
+É a pressão total exercida em um ponto do líquido.
+
+# Manômetro
+
+# Teorema de Stevin
+
+A diferença de pressão entre dois pontos de um fluido em equilíbrio é diretamente proporcional à diferença de profundidade entre eles.
+
+![[Pasted image 20251210022328.png|350]]
