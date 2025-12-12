@@ -89,3 +89,32 @@ $$Q=c.m.\Delta T$$
 # Mudanças do Estado Físico
 
 # Diagrama de Fases
+![[Pasted image 20251212013120.png|350]]
+
+![[Pasted image 20251212013142.png|350]]
+
+
+# Calor Latente (Q)
+
+Calcular quanto de calor um corpo ganha ou perde na troca de estado físico
+
+$$Q= m\cdot L$$
+
+Q = Calor
+m = massa que muda de estado físico
+L = Calor por Massa
+
+![[Pasted image 20251212013217.png|350]]
+“ Para cada 1g para mudar de estado físico, ele precisa absorver 80cal”
+
+# Trocas de Calor
+
+$$Q_{c} +Q_{L}=0$$
+
+## Como calcular quando temos perdas de calor para o ambiente?
+
+$$Q_{obj1} + Q_{obj2}+Q_{ambiente}+Q_{calorímetro}=0$$
+
+(claro, se o calorímetro também estiver trocando calor, ele estará na conta)
+
+

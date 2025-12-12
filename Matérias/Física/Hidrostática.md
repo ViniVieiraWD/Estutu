@@ -39,3 +39,11 @@ Ela depende apenas da densidade do líquido, da gravidade e da profundidade. Iss
 A diferença de pressão entre dois pontos de um fluido em equilíbrio é diretamente proporcional à diferença de profundidade entre eles.
 
 ![[Pasted image 20251210022328.png|350]]
+
+# Princípio de Pascal
+
+A variação de pressão é a mesma nos pontos do líquido e às paredes de recipiente.
+
+# Princípio de Arquimedes
+![[Pasted image 20251211225312.png]]
+
