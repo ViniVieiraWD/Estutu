@@ -35,8 +35,14 @@
     "useInternalPlugins": false
   },
   "Matérias": "LiAlbum",
-  "Matérias/Física": "LiAlbum",
-  "Matérias/Matemática": "LiAlbum",
+  "Matérias/Física": {
+    "iconName": "LiAlbum",
+    "iconColor": "#ff0000"
+  },
+  "Matérias/Matemática": {
+    "iconName": "LiAlbum",
+    "iconColor": "#0000ff"
+  },
   "Matérias/Física/Fórmulas.md": {
     "iconName": "LiNotepadText",
     "iconColor": "#1eff00"
@@ -103,5 +109,9 @@
   "Matérias/Física/Hidrostática.md": {
     "iconName": "LiAlignLeft",
     "iconColor": "#ff0000"
+  },
+  "Matérias/Química": {
+    "iconName": "LiAlbum",
+    "iconColor": "#00ff11"
   }
 }

@@ -18,3 +18,11 @@ Dias e lugares históricos comemorados
 -Políticos e Sociais 
 
 
+
+Ideal x real
+Idealização 
+Escapismo 
+
+
+
+
