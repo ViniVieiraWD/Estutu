@@ -113,5 +113,6 @@
   "Matérias/Química": {
     "iconName": "LiAlbum",
     "iconColor": "#00ff11"
-  }
+  },
+  "Matérias/Química/Química Básica.md": "LiAlignLeft"
 }

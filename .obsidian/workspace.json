@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f52c6dba17fce9ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matérias/Física/Física-Básica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Física-Básica"
-            }
-          },
-          {
             "id": "ec828718f3e24573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
+                "file": "Matérias/Química/Química Básica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nebulosas (1872) – Narcisa Amália"
+              "title": "Química Básica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Física",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,8 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cccc933377916680",
+  "active": "ec828718f3e24573",
   "lastOpenFiles": [
+    "Pasted image 20251217181232.png",
+    "Untitled 2.base",
+    "Matérias/Química/Química Básica.md",
+    "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
     "Matérias/Química",
     "Matérias/Redação Fuvest/Possíveis Análises.md",
     "Matérias/Redação Fuvest/Repertórios.md",
@@ -240,7 +230,6 @@
     "Matérias/Física/Física-Básica.md",
     "Matérias/LIvros da Fuvest/Balada de amor ao vento (1990) – Paulina Chiziane.md",
     "Untitled 7.base",
-    "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
     "Matérias/Matemática/Trigonometria.md",
     "Matérias/Matemática/Probabilidade.md",
     "Matérias/Matemática/Matemática-Básica.md",
@@ -254,7 +243,6 @@
     "Matérias/LIvros da Fuvest/Memórias de Martha (1899) – Julia Lopes de Almeida.md",
     "Matérias/LIvros da Fuvest/Canção para ninar menino grande (2018) – Conceição Evaristo.md",
     "Matérias/LIvros da Fuvest/Caminho de pedras (1937) – Rachel de Queiroz.md",
-    "Matérias/LIvros da Fuvest/As meninas (1973) – Lygia Fagundes Telles.md",
     "Untitled 6.base",
     "Pasted image 20251203172639.png",
     "Pasted image 20251203172606.png",
@@ -264,8 +252,6 @@
     "Untitled.canvas",
     "Untitled 4.base",
     "Matérias/Física/Non-Usable",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "Untitled 3.base"
   ]
 }
