@@ -1,3 +1,4 @@
+#Química
 # Matéria, Corpo, Objeto, Fases de Agregação da Matéria
 
 **Matéria**
@@ -50,7 +51,8 @@ Ponto de Fusão, Ebulição, Densidade, Propriedade Organolépticas (Sentidos �
 - Difusão
 	Capacidade de se espalhar
 
-## Capilaridade 
+## Capilaridade
+#capilaridade
 **Adesão:**
 Atração entre moléculas diferentes
 
@@ -58,7 +60,7 @@ Atração entre moléculas diferentes
 Atração entre moléculas iguais
 
 # Mudanças de Fase
-
+#Entalpia #Entropia #Mudanças-de-Fases
 **Entalpia** – Energia
 
 **Entropia** – Desordem

@@ -2,6 +2,7 @@
 # Relação FUVEST
 
 ## Distancia na geometria analítica 
+#Geometria-analítica
 $$d=\sqrt{(Y_{B}-Y_{A})^{2}+(X_{B}-X_{A})^{2}}$$
 
 E 
