@@ -6,7 +6,6 @@
       {
         "id": "64d82c026d663730",
         "type": "tabs",
-        "dimension": 39.95726495726496,
         "children": [
           {
             "id": "c3d6666c3e6eb037",
@@ -14,32 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matérias/Física/Cinemática.md",
+                "file": "Matérias/Química/Química Básica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cinemática"
+              "title": "Química Básica"
             }
-          }
-        ]
-      },
-      {
-        "id": "556f711abd0a8845",
-        "type": "tabs",
-        "dimension": 60.04273504273504,
-        "children": [
+          },
           {
-            "id": "ec828718f3e24573",
+            "id": "476e1a4c821f2451",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Matérias/LIvros da Fuvest/A visão das plantas (2019) – Djaimilia Pereira de Almeida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A visão das plantas (2019) – Djaimilia Pereira de Almeida"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -171,7 +168,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -208,22 +205,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "bases:Criar nova base": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cccc933377916680",
+  "active": "476e1a4c821f2451",
   "lastOpenFiles": [
     "Matérias/Física/Cinemática.md",
+    "Matérias/Redação Fuvest/Possíveis Análises.md",
+    "Matérias/Química/Química Básica.md",
+    "Nova pasta",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Matérias/Redação Fuvest/Repertórios.md",
     "Matérias/Física/Dinâmica.md",
     "Testes/Welcome.md",
     "Matérias/Matemática/FlashCards Matemática.md",
@@ -235,13 +241,9 @@
     "Matérias/Matemática/Geometria Plana.md",
     "Matérias/Matemática/Anotações Gerais.md",
     "Matérias/Matemática/Álgebra-Básica.md",
-    "Matérias/Química/Química Básica.md",
     "Pasted image 20251217181232.png",
-    "Untitled 2.base",
     "Matérias/LIvros da Fuvest/Nebulosas (1872) – Narcisa Amália.md",
     "Matérias/Química",
-    "Matérias/Redação Fuvest/Possíveis Análises.md",
-    "Matérias/Redação Fuvest/Repertórios.md",
     "Matérias/Física/Termologia.md",
     "Pasted image 20251212013217.png",
     "Pasted image 20251212013142.png",
@@ -260,15 +262,9 @@
     "Matérias/LIvros da Fuvest/Opúsculo Humanitário (1853) - Nísia Floresta.md",
     "Matérias/LIvros da Fuvest/O Cristo Cigano (1961) – Sophia de Mello Breyner Andresen.md",
     "Matérias/LIvros da Fuvest/Memórias de Martha (1899) – Julia Lopes de Almeida.md",
-    "Matérias/LIvros da Fuvest/Canção para ninar menino grande (2018) – Conceição Evaristo.md",
     "Untitled 6.base",
     "Pasted image 20251203172639.png",
     "Untitled 5.base",
-    "Matérias/Redação Fuvest",
-    "Matérias/LIvros da Fuvest",
-    "Untitled.canvas",
-    "Untitled 4.base",
-    "Matérias/Física/Non-Usable",
-    "Untitled 3.base"
+    "Matérias/Redação Fuvest"
   ]
 }

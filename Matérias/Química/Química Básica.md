@@ -81,4 +81,72 @@ Atração entre moléculas iguais
 
 **Menor altitude**: *maior* temperatura de *ebulição*, *menor* tempo de *cozimento*.
 
+
 # Substâncias e Misturas
+
+## Matéria
+
+### Substância pura
+
+Ponto de *fusão* e *ebulição* constantes
+
+**Simples**: 1 Elemento químico
+
+**Composta**: Vários elementos
+
+### Mistura
+
+Pode ser *separada* *por processos físicos*
+
+**Homogênea**:  1 Fase
+
+**Heterogênea**: 2 ou mais fases
+
+## Sistema
+
+### Homogêneo
+
+*Uma fase*
+
+**Substância Pura**
+
+**Mistura Homogênea**
+
+### Heterogêneo
+
+**Substância** pura caso a mesma *substância* em *duas* *fases* diferentes
+
+**Mistura Heterogênea**
+
+## Água
+
+*Destilada*: Pura
+
+*Mineral*: Mistura Homogênea (Água + sais)
+
+*Salobra*: Grande concentração de sal
+
+*Pesada*: Água, mas o hidrogênio pesa 2 ao invés de 1
+
+*Dura*: É uma água que contém muito Calcio ou Magnésio
+
+# Gráfico de Mudança de Fase
+
+## Identificando tipos de substâncias de acordo com o gráfico.
+### Mistura Eutética
+
+*Ponto de fusão*: Constante
+
+*Ponto de ebulição*: Variável
+
+### Mistura Azeotrópica
+
+*Ponto de fusão*: Variável
+
+*Ponto de ebulição*: Constante
+
+## Pressão
+
+# Alotropia
+
+Capacidade que certos elementos possuem de formar substâncias simples diferentes
